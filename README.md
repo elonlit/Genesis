@@ -1,5 +1,7 @@
 # Genesis ***𐤁***
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?style=for-the-badge)](https://github.com/ellerbrock/open-source-badges/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 > "*My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth. Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them*" [^1]
 
 Genesis is an interpreted, procedural, untyped Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for keyword polymorphism or something.
