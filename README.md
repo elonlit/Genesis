@@ -116,21 +116,6 @@ Gershayim `״` (U+05F4 in Unicode, and resembling a double quote mark) (sometime
 
 Similarly, a single geresh `׳` (U+05F3 in Unicode, and resembling a single quote mark) is appended after (to the left of) a single letter in the case where a number is represented by a single Hebrew numeral (e.g. `100` → `𐤒׳`).
 
-<!--<pre dir="rtl" align="right">
-מ = 𐤊״𐤇
-𐤄𐤂𐤃𐤓 سسسس1 = 𐤒𐤋״𐤁 + 𐤉״𐤄 - 𐤁׳
-</pre>-->
-
-<!-- [The Bible does not use heretical Indo-Arabic numerals.](https://en.wikipedia.org/wiki/Biblical_numerology) 
-The Paleo-Hebrew alphabet may have used a base-10 number system, although there is only evidence of this use for the letters 𐤀 to 𐤏 to indicate the numbers 1 to 10 on the Alexandrian coins of Sidon. However, there are at least two cases of gematria appearing in the New Testament. The reference to the miraculous catch of 153 fish in John 21:11 is largely seen as an application of gematria derived from Ezekiel 47. The appearance of this gematria in John 21:11 has been connected to one of the Dead Sea Scrolls, namely 4Q252. Many historians see gematria behind the reference to the number of the name of the beast in Revelation as "666", which corresponds to the numerical equivalent of the Greek characters behind the name "Nero Caesar", referring to the 1st century Roman emperor who persecuted the early Christians. Therefore, this quasi-decimal isopsephic number system is adopted for a lack of a better academic consensus.
-
-In this paradigm of numerology, there is no notation for zero, and the numeric values for individual letters are added together. Each unit (1, 2, ..., 9) is assigned a separate letter, each tens (10, 20, ..., 90) a separate letter, and the first four hundreds (100, 200, 300, 400) a separate letter. The later hundreds (500, 600, 700, 800 and 900) are represented by the sum of two or three letters representing the first four hundreds. To represent numbers from 1,000 to 999,999, the same letters are reused to serve as thousands, tens of thousands, and hundreds of thousands. Biblical gematria uses these transformations extensively.
-Gershayim (U+05F4 in Unicode, and resembling a double quote mark) (sometimes erroneously referred to as merkha'ot, which is Hebrew for double quote) are inserted before (to the right of) the last (leftmost) letter to indicate that the sequence of letters represents a gematric sequence of at least one Hebrew numeral (e.g., 28 → כ״ח). We use Gershayim` ֞`  to denote numbers. See the following example.
-
-`5781 (2020–21) = ה׳תשפ"א`
-
-The letters of the Paleo-Hebrew alphabet may have been used as numerals, although there is only evidence of this use for the letters 𐤀 to 𐤏 to indicate the numbers 1 to 10 on the Alexandrian coins of Sidon. This base-10 non-positional number system is adopted for a lack of an academic consensus. -->
-
 ## Control Flow
 > "*Seek the Lord while he may be found; call on him while he is near*" [^2]
 
@@ -165,7 +150,7 @@ To accomplish nested operations or anamorphism, it is recommended to do a compos
 ## Subroutines
 > "*'I AM THAT I AM'*" [^3]
 
-Functions in Genesis are declared using the `𐤐𐤅𐤍𐤒𐤑𐤉𐤄` keyword. Being void and non-parameterized, however, they are actually subroutines. This design follows the contention that recursion, as Peter Deutsch identified, is divine and not encompassed by the domain of human programmers, as evidenced by God identifying himself recursively. There is recursion insomuch that making a self-referential call from within a subroutine is possible, but there is no means to exit that recursion to express the irrevocable danger of pride and egoism. 
+Functions in Genesis are declared using the `𐤐𐤅𐤍𐤒𐤑𐤉𐤄` keyword. Being void and non-parameterized, however, they are actually subroutines. There is recursion insomuch that making a self-referential call from within a subroutine is possible, but there is no means to exit that recursion to express the irrevocable danger of pride and egoism. This design follows the contention that recursion, as Peter Deutsch identified, is divine and not encompassed by the domain of human programmers, as evidenced by God identifying himself recursively.  
 
 <!--- > "*For if, after they have returned from the defilements of the world by the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and are overcome, the last state has become worse for them than the first*"-->
 
@@ -233,13 +218,6 @@ Some calculations:
 𐤄𐤃𐤐𐤎𐤇 𐤒𐤋
 </pre>
 
-<!-- How to build
--------------------
-Clone the project locally, open the project folder using IntelliJ IDEA,
-and build the artifacts using Build -> Build Artifacts... -> Build (Lang871:jar)
-
-*Note*: To enable Paleo-Hebrew in the console, enable a TrueType font such as "Courier New." -->
-
 FAQ
 ------
 ### Why not use Modern Hebrew?
@@ -251,11 +229,6 @@ If you are able to program in this language, I have failed.
 ### Why not make an object-oriented language?
 This suggestion makes me consternated. Genesis will never be object-oriented because the Bible explicitly forbids object worship:
 > "*These prized objects are really worthless. The people who worship idols don’t know this, so they are all put to shame. []Their eyes are closed, and they cannot see. Their minds are shut, and they cannot think. The person who made the idol never stops to reflect, 'Why, it’s just a block of wood! I burned half of it for heat and used it to bake my bread and roast my meat. How can the rest of it be a god? Should I bow down to worship a piece of wood?'*" [^5]
-
-<!--License
--------
-Licensed under the GNU General Public License, Version 3.0; everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)-->
 
 [^1]: [Psalm 139:13-16](https://www.biblegateway.com/passage/?search=Psalm%20139%3A13-16&version=NIV)
 [^2]: [Isaiah 55:6-7](https://www.biblegateway.com/passage/?search=Isaiah%2055%3A6-7&version=KJV)
