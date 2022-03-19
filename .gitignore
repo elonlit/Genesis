@@ -1,0 +1,2 @@
+# Project exclude paths
+/out/

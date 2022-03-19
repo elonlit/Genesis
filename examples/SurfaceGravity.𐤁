@@ -1,0 +1,16 @@
+/**
+ * The following subroutine 𐤊𐤅𐤊𐤁 approximates the surface gravity of a planet (with Mercury as a test case).
+ *
+ * @author Elon Litman
+ */
+
+𐤄𐤂𐤃𐤓 𐤒𐤅𐤈𐤓 = (𐤆׳ * 𐤕׳) + (𐤁׳ * 𐤕׳) + 𐤐׳
+𐤄𐤂𐤃𐤓 𐤌𐤎𐤄 = 𐤂׳ * (𐤉׳ ^ 𐤊״𐤂)
+𐤄𐤂𐤃𐤓 𐤒𐤁𐤅𐤏 = (𐤉׳ ^ (𐤉״𐤀 / 𐤀׳)) * 𐤆׳
+
+𐤄𐤐𐤏𐤋 𐤊𐤅𐤊𐤁
+
+𐤐𐤅𐤍𐤒𐤑𐤉𐤄 𐤊𐤅𐤊𐤁:
+	 𐤄𐤂𐤃𐤓 𐤊𐤅𐤇𐤌 = (𐤌𐤎𐤄 * 𐤒𐤁𐤅𐤏) / (𐤁׳ ^ 𐤒𐤅𐤈𐤓)
+	 𐤄𐤃𐤐𐤎 𐤊𐤅𐤇𐤌
+𐤒-𐤃-𐤔
