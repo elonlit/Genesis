@@ -10,9 +10,6 @@ Genesis is an interpreted, procedural, untyped Paleo-Hebrew programming language
   <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
   </a>
-  <a href="https://github.com/ngryman/fauda/actions">
-    <img src="https://img.shields.io/github/workflow/status/ngryman/fauda/ci" />
-  </a>
 </p>
 
 <p align="center">
