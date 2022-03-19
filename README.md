@@ -34,8 +34,7 @@ Genesis is an interpreted, procedural, untyped Paleo-Hebrew programming language
 | Print  | 𐤄𐤃𐤐𐤎 |
 | Print Line  | 𐤄𐤃𐤐𐤎𐤇 |
 | Declare/Initialize Variable  | 𐤄𐤂𐤃𐤓 |
-| Declare Function  | 𐤐𐤅𐤍𐤒𐤑𐤉𐤄 |
-| Call Function  | 𐤄𐤐𐤏𐤋 |
+| Declare Subroutine  | 𐤐𐤅𐤍𐤒𐤑𐤉𐤄 |
 | If  | 𐤀𐤌 |
 | Then  | 𐤀𐤆 |
 | While  | 𐤁𐤏𐤅𐤃 |
