@@ -5,12 +5,8 @@
 Genesis is an interpreted, procedural, untyped Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for keyword polymorphism or something.
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/fauda">
     <img src="https://img.shields.io/tokei/lines/github/elonlit/genesis" />
-  </a>
-  <a href="test.com">
     <img src="https://img.shields.io/powershellgallery/p/DNS.1.1.1.1" />
-  </a>
   <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
   </a>
