@@ -84,7 +84,7 @@ Genesis is weakly and dynamically typed, so casting between primitives is handle
 3. String
       - Delimited by quotation marks, e.g. `"!𐤔𐤋𐤅𐤌 𐤏𐤅𐤋𐤌"`.
 
-The Paleo-Hebrew alphabet may have used gematria to denote cardinal values, although there is only evidence of this on the Samaria Ostraca. This quasi-decimal isopsephic number system is adopted for a lack of an academic consensus. 
+The Paleo-Hebrew alphabet may have used gematria to denote cardinal values, although there is only evidence of this on the Samaria Ostraca and Dead Sea Scroll 4Q252. This quasi-decimal isopsephic number system is adopted for a lack of an academic consensus. 
 
 In this paradigm of numerology, there is no notation for zero, and the numeric values for individual letters are added together. Each unit (`1`, `2`, ..., `9`) is assigned a separate letter, each tens (`10`, `20`, ..., `90`) a separate letter, and the first four hundreds (`100`, `200`, `300`, `400`) a separate letter. The later hundreds (`500`, `600`, `700`, `800`, and `900`) are represented by the sum of two or three letters representing the first four hundreds. To represent numbers from `1,000` to `999,999`, the same letters are reused to serve as thousands, tens of thousands, and hundreds of thousands. Biblical pseudepigrapha use these transformations extensively. Standard (normative value) encoding per the conventional affine Mispar Hechrachi method of gematria is as follows:
 		
