@@ -3,7 +3,7 @@
 
 > "*My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth. Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them*" [^1]
 
-Genesis is an interpreted, procedural, untyped Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for keyword polymorphism or something.
+Genesis is an interpreted, procedural, untyped Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for more reserved keywords.
 
 <p align="center">
     <img src="https://img.shields.io/tokei/lines/github/elonlit/genesis" />
