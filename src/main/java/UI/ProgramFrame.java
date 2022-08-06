@@ -65,7 +65,7 @@ public class ProgramFrame extends JFrame
         UIManager.codeEditorInstance.setTextArea(codeArea);
 
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
-        ge.registerFont(Font.createFont(Font.TRUETYPE_FONT, new File("./src/UI/PaleoHebrew.ttf")));
+        ge.registerFont(Font.createFont(Font.TRUETYPE_FONT, new File("./src/main/java/UI/PaleoHebrew.ttf")));
 
         // Setting the fonts - font, font style, font size
         Font bold14 = new Font("Arial Hebrew", Font.BOLD, 14);
