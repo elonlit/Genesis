@@ -17,6 +17,7 @@ import java.awt.dnd.DropTargetDropEvent;
 import java.awt.event.ActionEvent;
 import java.io.File;
 import java.io.IOException;
+import java.util.Arrays;
 
 public class ProgramFrame extends JFrame
 {
@@ -65,24 +66,20 @@ public class ProgramFrame extends JFrame
         UIManager.codeEditorInstance.setTextArea(codeArea);
 
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
-        ge.registerFont(Font.createFont(Font.TRUETYPE_FONT, new File("./src/main/java/UI/PaleoHebrew.ttf")));
+        ge.registerFont(Font.createFont(Font.TRUETYPE_FONT, new File("./src/main/java/UI/CODE2001.TTF")));
 
         // Setting the fonts - font, font style, font size
-        Font bold14 = new Font("Arial Hebrew", Font.BOLD, 14);
-        Font reg14 = new Font("Arial Hebrew", Font.PLAIN, 14);
-        Font pBold14 = new Font("Courier New", Font.BOLD, 14);
-        Font pReg14 = new Font("Courier New", Font.PLAIN, 14);
-        Font font = new Font("Paleo Hebrew", Font.PLAIN, 14);
+        Font font = new Font("Code2001", Font.PLAIN, 14);
 
-        codeHead.setFont(pBold14);
-        consoleHead.setFont(pBold14);
-        buttonStart.setFont(pBold14);
-        buttonClear.setFont(pBold14);
-        buttonLoad.setFont(pBold14);
-        buttonSave.setFont(pBold14);
-        buttonSaveAs.setFont(pBold14);
-        consoleArea.setFont(pReg14);
-        codeArea.setFont(pReg14);
+        codeHead.setFont(font);
+        consoleHead.setFont(font);
+        buttonStart.setFont(font);
+        buttonClear.setFont(font);
+        buttonLoad.setFont(font);
+        buttonSave.setFont(font);
+        buttonSaveAs.setFont(font);
+        consoleArea.setFont(font);
+        codeArea.setFont(font);
 
         // Setting the code editor document filter
         AbstractDocument document = (AbstractDocument) codeArea.getDocument();
