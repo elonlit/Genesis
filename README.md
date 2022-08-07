@@ -69,8 +69,6 @@ However, the associativity of most operators is from right-to-left:
 
 Identifiers can be represented by alphanumeric text (including `_`) and do not have to start with an alphabetic character.
 
-*Note*: To enable Paleo-Hebrew in the console, enable a TrueType font such as "Courier New."
-
 ## Data Types & Literals 
 Genesis is weakly and dynamically typed, so casting between primitives is handled implicitly by the interpreter. There are three data types:
 
