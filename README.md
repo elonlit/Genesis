@@ -8,8 +8,8 @@ Genesis is an interpreted, procedural, and Turing-complete Paleo-Hebrew programm
 <p align="center">
     <img src="https://img.shields.io/tokei/lines/github/elonlit/Genesis" />
     <img src="https://img.shields.io/powershellgallery/p/DNS.1.1.1.1" />
-  <a href="https://www.gnu.org/licenses/gpl-3.0">
-    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
+  <a href="https://github.com/elonlit/Genesis/LICENSE">
+    <img src="https://img.shields.io/badge/license-HOLY--LICENSE-yellow" />
   </a>
 </p>
 
