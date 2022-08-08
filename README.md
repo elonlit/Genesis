@@ -214,6 +214,17 @@ Some calculations:
 𐤄𐤃𐤐𐤎𐤇 𐤒𐤋
 </pre>
 
+A subroutine for calculating the energy of an electron in the <i>`𐤍`</i>-th orbital of a hydrogenic atom in Joules:
+<pre dir="rtl" align="right">
+𐤐𐤅𐤍𐤒𐤑𐤉𐤄 𐤀𐤍𐤓𐤂𐤉𐤄:
+𐤄𐤂𐤃𐤓 𐤍 = 𐤁׳
+𐤄𐤂𐤃𐤓 𐤂𐤀𐤅𐤋 = ((𐤂׳ * (𐤉׳ ^ 𐤇׳)) * ((𐤉״𐤀 / 𐤉׳) * (𐤉׳ ^ 𐤆׳)) * (((𐤔׳ + 𐤔׳ * 𐤉׳) / (𐤕״𐤒)) * (𐤉׳ ^ (𐤅׳ - 𐤌׳))) * (𐤀׳ - 𐤁׳)) * (𐤀׳ / (𐤍 * 𐤍))
+𐤄𐤃𐤐𐤎 𐤂𐤀𐤅𐤋
+𐤒-𐤃-𐤔
+
+𐤀𐤍𐤓𐤂𐤉𐤄
+</pre>
+
 FAQ
 ------
 ### Why not use Modern Hebrew?
