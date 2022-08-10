@@ -1,5 +1,6 @@
 package Commands;
 
+import java.util.Calendar;
 import java.util.concurrent.TimeUnit;
 import UI.UIManager;
 import Utilities.NumberExpressionSolver;
@@ -10,6 +11,13 @@ public class Sleep implements ICommand
     public void sendParameters(String par, int lineNumber, boolean preRun)
     {
         if(preRun) UIManager.consoleInstance.printErrorMessage("𐤔𐤂𐤉𐤀𐤄 𐤁𐤔𐤅𐤓𐤄: " + lineNumber, lineNumber);
+
+        Calendar calendar = Calendar.getInstance();
+        // You may only invoke the sleep command on Shabbat
+        if(calendar.get(Calendar.DAY_OF_WEEK) != Calendar.SATURDAY) {
+            UIManager.consoleInstance.printErrorMessage("𐤌𐤅𐤕𐤓 𐤋𐤉𐤔𐤅𐤍 𐤓𐤒 𐤁𐤔𐤁𐤕: " + lineNumber, lineNumber);
+            return;
+        }
 
         while(par.endsWith(" ")) par = par.substring(0, par.length()-1); // Removing whitespaces in the end of the line
         par = par.replaceAll("\\s",""); // Remove all whitespaces

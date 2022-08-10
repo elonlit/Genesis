@@ -193,7 +193,7 @@ As denoted, `𐤏𐤁𐤅𐤓` or `𐤏𐤁𐤅𐤓𐤊𐤋` looping an array wi
 | Tan(∠) | Returns the trigonometric tangent of an angle. | 𐤈𐤍(𐤈) |
 | ToDegrees(C) | Converts an angle measured in radians to degrees. | 𐤋𐤃(𐤒) |
 | ToRadians(∠) | Converts an angle measured in degrees to radians. | 𐤋𐤓(𐤈) |
-| Absolute(#) | Returns the absolute value of a number value. | 𐤏𐤂𐤋(𐤍) |
+| Absolute(#) | Returns the absolute value of a number value. | 𐤏𐤌𐤇(𐤍) |
 | Log(#) | Returns the natural logarithm (base *e*) of a number value. | (𐤍)𐤋𐤅𐤂 |
 | Exp(#) | Returns Euler's number *e* raised to the power of a number value. | (𐤍)𐤀𐤒𐤎𐤐 |
 | Ulp(#) | Returns the size of an ulp of the argument. | (𐤍)𐤀𐤅𐤋𐤐 |

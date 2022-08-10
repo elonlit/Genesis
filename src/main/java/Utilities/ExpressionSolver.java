@@ -144,7 +144,7 @@ public abstract class ExpressionSolver
                 for(int i=0; i<3; i++){
                     nextChar();
                 }
-            } else if(str.contains("\uD802\uDD0F\uD802\uDD02\uD802\uDD0B")){ //abs 𐤏𐤂𐤋
+            } else if(str.contains("\uD802\uDD0F\uD802\uDD0C\uD802\uDD07")){ //abs 𐤏𐤌𐤇
                 func = str.substring(startPos, this.currentPosition+5);
                 for(int i=0; i<5; i++){
                     nextChar();
@@ -232,8 +232,8 @@ public abstract class ExpressionSolver
                 case "\uD802\uDD0B\uD802\uDD13":
                     x = Math.toRadians(getFunctionInput()); //𐤋𐤓
                     break;
-                case "\uD802\uDD0F\uD802\uDD02\uD802\uDD0B":
-                    x = Math.abs(getFunctionInput()); //𐤏𐤂𐤋
+                case "\uD802\uDD0F\uD802\uDD0C\uD802\uDD07":
+                    x = Math.abs(getFunctionInput()); //𐤏𐤌𐤇
                     break;
                 case "\uD802\uDD0B\uD802\uDD05\uD802\uDD02":
                     x = Math.log(getFunctionInput()); //𐤋𐤅𐤂
