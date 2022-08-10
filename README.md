@@ -6,7 +6,6 @@
 Genesis is an interpreted, procedural, and Turing-complete Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for more reserved keywords.
 
 <p align="center">
-    <img src="https://img.shields.io/tokei/lines/github/elonlit/Genesis" />
     <img src="https://img.shields.io/powershellgallery/p/DNS.1.1.1.1" />
   <a href="https://github.com/elonlit/Genesis/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-HOLY--LICENSE-yellow" />
